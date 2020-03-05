@@ -4,7 +4,7 @@ title:       The BAP Blog
 author:      David Brumley
 description: "The Binary Analysis Platform Blog"
 baseurl:     ""
-url:         "http://binaryanalysisplatform.github.io"
+url:         "http://gitoleg.github.io"
 include: [ _odoc-theme ]
 
 # Google analytics
