@@ -1,1 +1,1 @@
-This is the [Binary Analysis Blog](http://binaryanalysisplatform.github.io) website.
+This is the [Binary Analysis Blog](http://gitoleg.github.io) website.

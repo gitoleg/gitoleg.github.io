@@ -35,10 +35,10 @@ Employing the tagless final embedding together with our new Knowledge Base we we
 
 [1]: https://github.com/BinaryAnalysisPlatform/bap
 [2]: https://t.co/ylzub6LBRq?amp=1
-[3]: http://binaryanalysisplatform.github.io/bap/api/odoc/bap-knowledge/Bap_knowledge/Knowledge/index.html
-[4]: http://binaryanalysisplatform.github.io/bap/api/master/bap-core-theory/Bap_core_theory/index.html
-[5]: http://binaryanalysisplatform.github.io/bap/api/odoc/index.html
+[3]: http://gitoleg.github.io/bap/api/odoc/bap-knowledge/Bap_knowledge/Knowledge/index.html
+[4]: http://gitoleg.github.io/bap/api/master/bap-core-theory/Bap_core_theory/index.html
+[5]: http://gitoleg.github.io/bap/api/odoc/index.html
 [6]: https://github.com/BinaryAnalysisPlatform/bap-tutorial
 [7]: https://gitter.im/BinaryAnalysisPlatform/bap
-[8]: https://binaryanalysisplatform.github.io/
+[8]: https://gitoleg.github.io/
 [9]: https://discuss.ocaml.org/t/ann-bap-2-0-release/4719
